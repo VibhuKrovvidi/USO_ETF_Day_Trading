@@ -11,3 +11,4 @@ How to see our results:
 * Modeling carries out our ML modeling to identify and predict each day's High/Low prices
 * Strategy contains our 3 strategies and the results from these strategies
 
+Raw Data is found under the *data* folder. These datasets are publicly available and drawn from Yahoo Finance
